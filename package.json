@@ -1,7 +1,7 @@
 {
   "name": "explicit-reload",
   "main": "./lib/explicit-reload",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Prevent auto reload, expose an explicit key binding for file reloading",
   "repository": "https://github.com/131/atom-explicit-reload",
   "license": "MIT",
